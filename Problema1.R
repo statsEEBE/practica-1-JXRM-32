@@ -17,7 +17,7 @@ ni <- freq # frequència absoluta
 fi <- freq/32 # frequència relativa
 Ni <- cumsum(freq) # frequència absoluta acomulada
 Fi <- cumsum(freq/32) # frequència relativa acomulada
-table <- data.frame(ni,fi,Ni,Fi)
+table <- data.frame(ni=ni,fi=fi,Ni=Ni,Fi=Fi)
 table
 
 # mediana drat
