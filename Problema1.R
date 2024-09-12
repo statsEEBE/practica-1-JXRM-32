@@ -1,5 +1,4 @@
-# Codigo para problema 1
-
+# Codi per problema 1
 dades_cotxes <- mtcars
 
 # mitjana qsec
